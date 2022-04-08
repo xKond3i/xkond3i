@@ -13,4 +13,4 @@
 - PHP
 - CS (for Unity)
 
-📫 You can reach me at ceg.kond@gmail.com
+📫 You can reach me at ceg.kond.biz@gmail.com
