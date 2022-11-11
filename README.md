@@ -1,6 +1,6 @@
 ### Hi, I’m Konrad 👋
 
-### I'm a self-taught Student, Programmer and Designer
+### I'm a Student, self-taught Programmer and Designer
 - 📌 I'm currently working on little projects, that will apear on this profile
 - 🎓 I'm currently studying Automatic Control and Robotics at Poznan University of Technology
 - 💻 I'm constantly trying to improve on my coding skills, basicly polishing my skills in free time
