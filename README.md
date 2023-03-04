@@ -4,7 +4,7 @@
 
 ### I'm a Student, self-taught Software Developer and Designer 🎓💻🎨
 - 📌 There isn't any special target worth sharing right now
-- 💻 I'm obsesed with keeping my code *clean* as hell
+- 💻 I'm obsessed with keeping my code *clean* as hell
 - 🎨 I love to illustrate and design too
 - 🎬 I also enjoy movies, series and games in my free time
 - ☕ I've got 2 best friends while coding - tea and music
