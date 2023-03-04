@@ -1,5 +1,5 @@
 ### Hi, I’m Konrad 👋
-📌 '02 from Poznań, Poland 🇵🇱
+📌 '02 from Poznań, Poland 🇵🇱 \
 🎓 Poznan University of Technology
 
 ### I'm a Student, self-taught Software Developer and Designer 🎓💻🎨
