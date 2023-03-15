@@ -2,7 +2,7 @@
 📌 '02 from Poznań, Poland 🇵🇱 \
 🎓 Poznan University of Technology
 
-### I'm a Student, self-taught Software Developer and Designer 🎓💻🎨
+### I'm a Student, self-taught Web Developer and Designer 🎓💻🎨
 - 📌 There isn't any special target worth sharing right now
 - 💻 I'm obsessed with keeping my code *clean* as hell
 - 🎨 I love to illustrate and design too
