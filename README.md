@@ -1,4 +1,4 @@
-### Hi, I’m Konrad 👋
+### Hi, I’m Konrad 👋🏼
 📌 '02 from Poznań, Poland 🇵🇱 \
 🎓 Poznan University of Technology
 
