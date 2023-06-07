@@ -1,5 +1,5 @@
 ### Hi, I’m Konrad 👋🏼
-📌 '02 from Poznań, Poland 🇵🇱 \
+📌 '02 from Poznań, Poland \
 🎓 Poznan University of Technology
 
 <img src="https://github-readme-stats.vercel.app/api?username=xKond3i&show_icons=true&theme=github_dark_dimmed"/>
