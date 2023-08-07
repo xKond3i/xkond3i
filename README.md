@@ -1,6 +1,7 @@
-### Hi, I’m Konrad 👋🏼
+### Hi, I’m `Konrad` also known as `xKond3i` 👋🏼
 📌 '02 from Poznań, Poland \
-🎓 Poznan University of Technology
+🎓 Poznan University of Technology \
+💼 Software Developer and Graphics Designer
 
 <img src="https://github-readme-stats.vercel.app/api?username=xKond3i&show_icons=true&theme=github_dark_dimmed"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKond3i&theme=github_dark_dimmed&layout=compact&langs_count=6"/>
