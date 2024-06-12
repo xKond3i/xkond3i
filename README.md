@@ -3,8 +3,8 @@
 🎓 Poznań University of Technology \
 💼 Software Developer and Graphics Designer
 
-<img src="https://github-readme-stats.vercel.app/api?username=xKond3i&show_icons=true&theme=github_dark_dimmed"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKond3i&theme=github_dark_dimmed&layout=compact&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xKond3i&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKond3i&theme=github_dark_dimmed&layout=compact&langs_count=6" alt="Most Used Languages"/>
 <img src="https://streak-stats.demolab.com?user=xKond3i&theme=github-dark-dimmed&date_format=j%20M%5B%20Y%5D&ring=FB8C00&fire=FB8C00" alt="GitHub Streak"/>
 
 <!--
