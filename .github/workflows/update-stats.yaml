@@ -1,0 +1,34 @@
+name: update README cards
+
+on:
+  schedule:
+    - cron: "0 2 */3 * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate overall stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark_dimmed&title_color=7b64fc&icon_color=7b64fc&rank_icon=github
+          path: resources/stats/overall.svg
+
+      - name: generate top langs stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=github_dark_dimmed&layout=compact&langs_count=6&title_color=7b64fc&card_width=467
+          path: resources/stats/top-langs.svg
+
+      - name: commit updated stats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add resources/stats/*.svg
+          git commit -m "update stats" || exit 0
+          git push
