@@ -17,6 +17,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark_dimmed&title_color=7b64fc&icon_color=7b64fc&rank_icon=github
           path: resources/stats/overall.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: generate top langs stats
         uses: readme-tools/github-readme-stats-action@v1
@@ -24,6 +25,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=github_dark_dimmed&layout=compact&langs_count=6&title_color=7b64fc&card_width=467
           path: resources/stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: commit updated stats
         run: |
